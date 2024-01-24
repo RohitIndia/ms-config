@@ -9,7 +9,7 @@ accounts:
   message: "Welcome to Devs apis"
   contactDetails:
     name: "Rohit- Developer"
-    email: "rohitsingh@gmail.com"
+    email: "{cipher}d336aad833bee5fc1a5ec1e9d08c39c8c98dabdf6de6868c59f28f96c0d4d8cd115bbee796db55c495a6dccc35edfc85"
   onCallSupport:
     - (555)-(55)-5453
     - (555)-(55)-5455
