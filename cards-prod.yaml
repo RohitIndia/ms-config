@@ -1,0 +1,7 @@
+spring:
+# these properties as of now coming from dockercompose env variables
+  datasource:
+    url: jdbc:mysql://localhost:3306/test
+    username: root
+    password: admin
+

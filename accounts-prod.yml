@@ -1,0 +1,16 @@
+# These properties may change from env to env.
+spring:
+  datasource:
+    url: jdbc:mysql://localhost:3306/test
+    username: root
+    password: admin
+
+accounts:
+  message: "Welcome to Devs apis Prod Server"
+  contactDetails:
+    name: "Rohit- Prod Support"
+    email: "prodsupport@gmail.com"
+  onCallSupport:
+    - (555)-(55)-545321
+    - (555)-(55)-545432
+

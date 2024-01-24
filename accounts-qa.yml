@@ -1,0 +1,15 @@
+# These properties may change from env to env.
+spring:
+  datasource:
+    url: jdbc:mysql://localhost:3306/test
+    username: root
+    password: admin
+
+accounts:
+  message: "Welcome to Devs apis QA Server"
+  contactDetails:
+    name: "Rohit- QA Support"
+    email: "qasupport@gmail.com"
+  onCallSupport:
+    - (555)-(55)-54532132
+    - (555)-(55)-54543233

@@ -1,0 +1,16 @@
+# These properties will be used for default profiles
+spring:
+  datasource:
+    url: jdbc:mysql://localhost:3306/test
+    username: root
+    password: admin
+
+accounts:
+  message: "Welcome to Devs apis"
+  contactDetails:
+    name: "Rohit- Developer"
+    email: "rohitsingh@gmail.com"
+  onCallSupport:
+    - (555)-(55)-5453
+    - (555)-(55)-5455
+
